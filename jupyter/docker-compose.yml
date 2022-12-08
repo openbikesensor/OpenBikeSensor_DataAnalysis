@@ -1,0 +1,13 @@
+version: "3.9"
+services:
+  jupyter:
+    build: .
+    image: jupyter/datascience-notebook
+    restart: always
+    ports:
+      - "10000:8888"
+    volumes:
+      - ./data:/home/jovyan/work
+    environment:
+      - JUPYTER_TOKEN=123
+

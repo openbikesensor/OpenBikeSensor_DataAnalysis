@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Marienbrücke",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 56789 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 10.67632168266703, 53.872716440920257 ], [ 10.676449767579731, 53.872852370285521 ], [ 10.678874841926852, 53.871976373292291 ], [ 10.678704062043252, 53.871830372009583 ], [ 10.67632168266703, 53.872716440920257 ] ] ] ] } }
+]
+}

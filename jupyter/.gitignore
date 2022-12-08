@@ -1,0 +1,5 @@
+data/output/*.png
+data/output/*.html
+data/download/geojson/*.geojson
+data/.ipynb_checkpoints/
+*.log

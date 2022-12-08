@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Wisbystraße",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 785354 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 10.66286987967362, 53.86906419516302 ], [ 10.663110948777753, 53.869218697253721 ], [ 10.66466217605652, 53.866635347296892 ], [ 10.664358219360002, 53.866573542712253 ], [ 10.66286987967362, 53.86906419516302 ] ] ] ] } }
+]
+}
